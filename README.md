@@ -9,6 +9,9 @@ This project implements a Convolutional Neural Network (CNN) for MNIST digit cla
 - **🎯 Final Test Accuracy**: **99.52%**
 - **⏱️ Training Epochs**: **10**
 
+## **Model Performance Visualization**
+![Accuracy and Loss Curves](predictions_visualization.png)
+
 ## **Architecture**
 
 The model uses a lightweight CNN architecture with three convolutional blocks designed for efficient feature extraction:
@@ -160,7 +163,6 @@ TRAINING METRICS SUMMARY
 ============================================================
 ```
 
-## **Model Performance Visualization**
-![Accuracy and Loss Curves](predictions_visualization.png)
+
 
 *Training curves and sample predictions will be generated when running the model*
