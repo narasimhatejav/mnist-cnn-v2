@@ -4,7 +4,7 @@
 This project implements a Convolutional Neural Network (CNN) for MNIST digit classification using PyTorch, achieving **99.52%** test accuracy in just 10 epochs through optimized architecture, data augmentation, and learning rate scheduling.
 
 ### **Key Metrics**
-- **🔗 Google Colab URL**: [https://colab.research.google.com/drive/1DR63wMR3Dxer-H4fzi1HdDCeBLH6meW_#scrollTo=66OCGkHhRWov](URL)
+- **🔗 Google Colab URL**: [Google colab URL](https://colab.research.google.com/drive/1DR63wMR3Dxer-H4fzi1HdDCeBLH6meW_#scrollTo=66OCGkHhRWov)
 - **📊 Number of Parameters**: **9,594**
 - **🎯 Final Test Accuracy**: **99.52%**
 - **⏱️ Training Epochs**: **10**
