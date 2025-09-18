@@ -70,6 +70,79 @@ Test data uses only normalization (no augmentation for consistent evaluation).
 ## **Training Results**
 
 ```
+Starting training...
+
+Epoch 1/10
+Training: 100%|██████████| 469/469 [01:21<00:00,  5.78it/s]
+Testing: 100%|██████████| 79/79 [00:04<00:00, 18.79it/s]
+Train Loss: 0.2876, Train Acc: 91.12%
+Test Loss: 0.0772, Test Acc: 97.55%
+Learning Rate: 0.100000
+
+Epoch 2/10
+Training: 100%|██████████| 469/469 [01:19<00:00,  5.91it/s]
+Testing: 100%|██████████| 79/79 [00:03<00:00, 24.13it/s]
+Train Loss: 0.1437, Train Acc: 95.78%
+Test Loss: 0.0626, Test Acc: 97.90%
+Learning Rate: 0.262710
+
+Epoch 3/10
+Training: 100%|██████████| 469/469 [01:21<00:00,  5.76it/s]
+Testing: 100%|██████████| 79/79 [00:03<00:00, 23.94it/s]
+Train Loss: 0.1140, Train Acc: 96.75%
+Test Loss: 0.0477, Test Acc: 98.50%
+Learning Rate: 0.587919
+
+Epoch 4/10
+Training: 100%|██████████| 469/469 [01:22<00:00,  5.71it/s]
+Testing: 100%|██████████| 79/79 [00:03<00:00, 23.29it/s]
+Train Loss: 0.0947, Train Acc: 97.26%
+Test Loss: 0.0331, Test Acc: 99.00%
+Learning Rate: 0.750000
+
+Epoch 5/10
+Training: 100%|██████████| 469/469 [01:20<00:00,  5.83it/s]
+Testing: 100%|██████████| 79/79 [00:03<00:00, 23.89it/s]
+Train Loss: 0.0787, Train Acc: 97.76%
+Test Loss: 0.0315, Test Acc: 99.01%
+Learning Rate: 0.713370
+
+Epoch 6/10
+Training: 100%|██████████| 469/469 [01:20<00:00,  5.83it/s]
+Testing: 100%|██████████| 79/79 [00:04<00:00, 16.58it/s]
+Train Loss: 0.0666, Train Acc: 98.07%
+Test Loss: 0.0259, Test Acc: 99.21%
+Learning Rate: 0.611043
+
+Epoch 7/10
+Training: 100%|██████████| 469/469 [01:20<00:00,  5.82it/s]
+Testing: 100%|██████████| 79/79 [00:03<00:00, 23.59it/s]
+Train Loss: 0.0606, Train Acc: 98.27%
+Test Loss: 0.0182, Test Acc: 99.41%
+Learning Rate: 0.463285
+
+Epoch 8/10
+Training: 100%|██████████| 469/469 [01:20<00:00,  5.85it/s]
+Testing: 100%|██████████| 79/79 [00:03<00:00, 23.78it/s]
+Train Loss: 0.0503, Train Acc: 98.58%
+Test Loss: 0.0175, Test Acc: 99.49%
+Learning Rate: 0.299361
+
+Epoch 9/10
+Training: 100%|██████████| 469/469 [01:20<00:00,  5.83it/s]
+Testing: 100%|██████████| 79/79 [00:04<00:00, 19.23it/s]
+Train Loss: 0.0480, Train Acc: 98.64%
+Test Loss: 0.0166, Test Acc: 99.52%
+Learning Rate: 0.151739
+
+Epoch 10/10
+Training: 100%|██████████| 469/469 [01:20<00:00,  5.84it/s]
+Testing: 100%|██████████| 79/79 [00:03<00:00, 23.93it/s]
+Train Loss: 0.0435, Train Acc: 98.70%
+Test Loss: 0.0164, Test Acc: 99.52%
+Learning Rate: 0.049657
+Training completed!
+
 ============================================================
 TRAINING METRICS SUMMARY
 ============================================================
