@@ -1,7 +1,7 @@
 # MNIST Classification Model
 
 ## **Summary**
-This project implements a Convolutional Neural Network (CNN) for MNIST digit classification using PyTorch, achieving **99.52%** test accuracy in just 10 epochs through optimized architecture, data augmentation, and learning rate scheduling.
+This project implements a Convolutional Neural Network (CNN) for MNIST digit classification using PyTorch, achieving **99.64%** test accuracy in just 10 epochs through optimized architecture, data augmentation, and learning rate scheduling.
 
 ### **Key Metrics**
 - **🔗 Google Colab URL**: [Google colab URL](https://colab.research.google.com/drive/13p46r4dpF13sd4aO73xNAa7myDSlG95X#scrollTo=I5JMTYwnRlo3)
