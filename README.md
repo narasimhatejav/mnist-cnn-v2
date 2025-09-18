@@ -45,10 +45,8 @@ Input: 1×1×16 (flattened to 16)
 ```
 
 ### **Architecture Highlights**
-- **Parameter Efficiency**: Only 6,426 parameters through strategic channel sizing
+- **Parameter Efficiency**: Only 9,594 parameters through strategic channel sizing
 - **Regularization**: Batch normalization after each conv layer + dropout before classification
-- **Spatial Reduction**: Aggressive pooling and kernel sizes to reach 1×1 feature maps
-- **Skip Connections**: None (keeping architecture simple and lightweight)
 - **Activation**: ReLU throughout for computational efficiency
 
 ## **Data Augmentation**
