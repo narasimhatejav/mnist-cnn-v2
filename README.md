@@ -161,7 +161,3 @@ TRAINING METRICS SUMMARY
     10    0.031684   0.013318       98.993333          99.64       0.049657
 ============================================================
 ```
-
-
-
-*Training curves and sample predictions will be generated when running the model*
